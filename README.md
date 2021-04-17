@@ -5,7 +5,7 @@ Welcome to Decko! We are a modern solution to studying. Long gone are the days o
 This application was built as a final capstone project during my coding bootcamp with three teammates using the technologies we learned throughout the program including: Java, SpringBoot, PostgreSQL, HTML, CSS, JavaScript, and Vue.js.
 
 
-User Flow: 
+#User Flow: 
 ![Decko_LandingPage1](https://user-images.githubusercontent.com/76718235/115122914-8aeba600-9f88-11eb-9709-7dccf5994aa4.PNG)
 ![Decko_register](https://user-images.githubusercontent.com/76718235/115122925-9a6aef00-9f88-11eb-907a-625f6b6ef370.PNG)
 ![Decko_LandingPage2](https://user-images.githubusercontent.com/76718235/115122916-8d4e0000-9f88-11eb-8892-aa9f39ec164c.PNG)
