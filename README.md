@@ -1,1 +1,5 @@
 # Decko-final-capstone
+
+Welcome to Decko! We are a modern solution to studying. Long gone are the days of wasted money and cramping hands from old school pen and paper flashcards. If you’ve ever taken a course which required you to learn a plethora of terms and concepts in a short amount of time - you know the struggle. Studies have shown that flashcards improve active memory recall and result in 150% better retention than just passive studying. Our goal is to make the process of learning more fun, seamless, and efficient. Decko is for your school children, college kids, adult learners, and everyone in between. With our application, you get the luxury of typing out your flashcards and having them to study wherever you need them - plus it’s more environmentally friendly! Studying isn’t always easy, so we pride ourselves on building a community of learners who work together to help each other out. 
+
+This application was built as a final capstone project during my coding bootcamp with three teammates using the technologies we learned throughout the program including: Java, SpringBoot, PostgreSQL, HTML, CSS, JavaScript, and Vue.js.
